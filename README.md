@@ -20,7 +20,7 @@ The following steps must be followed to install the dependencies required for ru
 cd (`project_path`)
 ```
 
-2. Create a conda environment from a .yml file
+2. Create a conda environment
 ```
 conda create -n <yourenvname> python=3.10
 ```
